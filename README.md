@@ -47,7 +47,7 @@ personal-finance-manager/
 ```bash
 git clone https://github.com/sakshij960/personal-finance-manager.git
 
----
+
 
 Move project to XAMPP:
 C:\xampp\htdocs\
