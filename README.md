@@ -27,16 +27,16 @@ A web-based application to track income, expenses, and manage personal finances 
 
 ## 📁 Project Structure
 personal-finance-manager/
-│── budget/
-│── categories/
-│── css/
-│── db/
-│── expense/
-│── includes/
-│── dashboard.php
-│── index.php
-│── register.php
-│── logout.php
+- │── budget/
+- │── categories/
+- │── css/
+- │── db/
+- │── expense/
+- │── includes/
+- │── dashboard.php
+- │── index.php
+- │── register.php
+- │── logout.php
 
 ---
 
@@ -55,13 +55,13 @@ C:\xampp\htdocs\
 ```
 
 Start:
-Apache
-MySQL
+- Apache
+- MySQL
 
 Import Database:
-Open phpMyAdmin
-Create a database
-Import .sql file from db/ folder
+- Open phpMyAdmin
+- Create a database
+- Import .sql file from db/ folder
 
 
 ## Run project:
@@ -82,11 +82,11 @@ http://localhost/personal-finance-manager
 ---
 
 ## 📈 Future Improvements
-Charts & Graphs (Analytics)
-Mobile Responsive UI
-Email Notifications
-Multi-user support
-Export to Excel
+- Charts & Graphs (Analytics)
+- Mobile Responsive UI
+- Email Notifications
+- Multi-user support
+- Export to Excel
 ---
 
 ## 📌 Author
