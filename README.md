@@ -40,12 +40,13 @@ personal-finance-manager/
 
 ---
 
+```
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/sakshij960/personal-finance-manager.git
-```md
+
 
 Move project to XAMPP:
 C:\xampp\htdocs\
