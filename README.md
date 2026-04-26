@@ -66,7 +66,7 @@ http://localhost/personal-finance-manager
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](personal-finance-manager/screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Expense Page
 ![Expense](screenshots/expense.png)
