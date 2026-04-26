@@ -58,10 +58,10 @@ Open phpMyAdmin
 Create a database
 Import .sql file from db/ folder
 
-Run project:
+## Run project:
 http://localhost/personal-finance-manager
 
-📸 Screenshots
+## 📸 Screenshots
 
 Add your screenshots here
 
@@ -70,14 +70,14 @@ Example:
 
 
 
-📈 Future Improvements
+## 📈 Future Improvements
 Charts & Graphs (Analytics)
 Mobile Responsive UI
 Email Notifications
 Multi-user support
 Export to Excel
 
-📌 Author
+## 📌 Author
 Sakshi Jadhav
 
 ## 📜 License
