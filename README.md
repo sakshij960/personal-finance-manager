@@ -63,12 +63,14 @@ http://localhost/personal-finance-manager
 
 ## 📸 Screenshots
 
-Add your screenshots here
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-Example:
+### Income
+![Income](screenshots/income.png)
 
-
-
+### Expense
+![Expense](screenshots/expense.png)
 
 ## 📈 Future Improvements
 Charts & Graphs (Analytics)
