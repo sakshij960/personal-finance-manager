@@ -64,7 +64,7 @@ http://localhost/personal-finance-manager
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]("E:\personal_finance_manager\personal-finance-manager\screenshots\dashboard.png")
 
 ### Income
 ![Income](screenshots/income.png)
