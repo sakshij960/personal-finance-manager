@@ -40,7 +40,7 @@ personal-finance-manager/
 
 ---
 
-```
+```md
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
