@@ -79,3 +79,6 @@ Export to Excel
 
 📌 Author
 Sakshi Jadhav
+
+## 📜 License
+This project is licensed under the MIT License.
