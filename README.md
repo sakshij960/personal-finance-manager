@@ -45,6 +45,7 @@ personal-finance-manager/
 1. Clone the repository:
 ```bash
 git clone https://github.com/sakshij960/personal-finance-manager.git
+```md
 
 Move project to XAMPP:
 C:\xampp\htdocs\
@@ -60,8 +61,6 @@ Import .sql file from db/ folder
 
 ## Run project:
 http://localhost/personal-finance-manager
-
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
