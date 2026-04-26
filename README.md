@@ -40,13 +40,14 @@ personal-finance-manager/
 
 ---
 
-```md
+
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/sakshij960/personal-finance-manager.git
 
+---
 
 Move project to XAMPP:
 C:\xampp\htdocs\
@@ -59,9 +60,11 @@ Import Database:
 Open phpMyAdmin
 Create a database
 Import .sql file from db/ folder
+---
 
 ## Run project:
 http://localhost/personal-finance-manager
+---
 
 ## 📸 Screenshots
 
@@ -73,6 +76,7 @@ http://localhost/personal-finance-manager
 
 ### Income Page
 ![Income](screenshots/income.png)
+---
 
 ## 📈 Future Improvements
 Charts & Graphs (Analytics)
@@ -80,9 +84,11 @@ Mobile Responsive UI
 Email Notifications
 Multi-user support
 Export to Excel
+---
 
 ## 📌 Author
 Sakshi Jadhav
+---
 
 ## 📜 License
 This project is licensed under the MIT License.
