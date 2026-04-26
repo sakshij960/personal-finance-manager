@@ -21,7 +21,7 @@ A web-based application to track income, expenses, and manage personal finances 
 - Frontend: HTML, CSS, JavaScript  
 - Backend: PHP  
 - Database: MySQL  
-- Tools: XAMPP / WAMP  
+- Tools: XAMPP 
 
 ---
 
