@@ -63,14 +63,16 @@ http://localhost/personal-finance-manager
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Dashboard
-![Dashboard]("E:\personal_finance_manager\personal-finance-manager\screenshots\dashboard.png")
+![Dashboard](screenshots/dashboard.png)
 
-### Income
-![Income](screenshots/income.png)
-
-### Expense
+### Expense Page
 ![Expense](screenshots/expense.png)
+
+### Income Page
+![Income](screenshots/income.png)
 
 ## 📈 Future Improvements
 Charts & Graphs (Analytics)
